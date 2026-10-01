@@ -1,0 +1,20 @@
+//Wentzel
+//Miguel
+//4478677
+//CSC212 2026 Practical 2 Term 3
+CSC212_T3P2 
+GREEDY APPROACH
+E : 02:00 - 04:00
+I : 05:00 - 10:00
+J : 11:00 - 14:00
+G : 15:00 - 19:00
+L : 20:00 - 23:00
+The optimal 12-hr window for the greedy approach is between 02:00 and 23:00
+His total commission if he earns R100 per trip is R500
+
+DYNAMIC PROGRAMMING APPROACH
+E : 02:00 - 04:00 : 13 passengers
+I : 05:00 - 10:00 : 15 passengers
+J : 11:00 - 14:00 : 45 passengers
+His total commission if he were to earn R10 per customer is R730
+The cars to obtain the schedule based on largest customers are E, I, J
